@@ -1,7 +1,7 @@
 # 🌐 UNLP-2025: Manipulation Span Identification  
 🔍 Detecting Manipulative Text in Ukrainian / Russian Telegram Posts
 
-This repository contains code and experiments for the **UNLP-2025 Shared Task**, focused on identifying exact manipulative text spans inside Telegram posts.
+This repository contains code and experiments focused on identifying exact manipulative text spans inside Telegram posts.
 
 ## 🎯 Task Objective
 
