@@ -46,3 +46,11 @@ final_submission.csv
 id,trigger_words
 123abc,[(27,63),(90,183)]
 ```
+
+## 👥 Contributors
+
+### ✨ Shiti Chowdhury  
+### ✨ Adnan Faisal
+
+⭐ Support
+If you like this project, consider giving the repository a star ⭐ on GitHub!
