@@ -3,11 +3,13 @@
 
 This repository contains code and experiments for the **UNLP-2025 Shared Task**, focused on identifying exact manipulative text spans inside Telegram posts.
 
-## 🎯 Task Goal
+## 🎯 Task Objective
 
 Given a Telegram post, the model must:
 
 > **Locate exact character spans of manipulative text — not just classify whether manipulation exists.**
+
+Unlike traditional classification tasks, this challenge focuses on sequence labeling—predicting span boundaries, not just determining whether the text is manipulative.
 
 ## 🛠️ Pipeline Overview
 
