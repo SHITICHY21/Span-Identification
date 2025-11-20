@@ -49,8 +49,8 @@ id,trigger_words
 
 ## 👥 Contributors
 
-- 🧑‍💻 **Shiti Chowdhury**
-- 🧑‍💻 **Adnan Faisal**
+> 🧑‍💻 **Shiti Chowdhury**
+> 🧑‍💻 **Adnan Faisal**
 
 ⭐ Support
 If you like this project, consider giving the repository a star ⭐ on GitHub!
